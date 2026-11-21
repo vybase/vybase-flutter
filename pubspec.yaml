@@ -1,0 +1,16 @@
+name: vybase
+description: Vybase SDK for Flutter and Dart — sign-up, sign-in (password, email/SMS/WhatsApp codes, Google, Vybase), sessions and user management.
+version: 0.1.0
+repository: https://github.com/FZHAMZAALI/project-/tree/main/packages/sdk-flutter
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  http: ^1.2.0
+  crypto: ^3.0.3
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^4.0.0
